@@ -24,7 +24,7 @@
 
 # **Description**
 
-Star Jeans is a fictional E-commerce company located in the US. Its owners decided to brought the company up to enter in the country's fashion market with Jeans for male outfit. The first step is to maintain a low-cost operational system and scale as the customers rate grows up. 
+Star Jeans is a fictional E-commerce company located in the US. Its owners decided to create the company to enter in the country's fashion market selling Jeans for male outfit. The first step is to maintain a low-cost operational system and scale as the customers rate grows up. 
 Given the business situation, some important questions must be answered:
 
 1. What is the best price to sell the products?
