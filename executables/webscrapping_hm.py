@@ -286,6 +286,30 @@ def data_insert(df_data):
         'scrapy_datetime'
     ]]
 
+#    query_showroom_schema = '''
+#        CREATE TABLE vitrine(
+#        product_id         TEXT,
+#        style_id           TEXT,
+#        color_id           TEXT,
+#        product_name       TEXT,
+#        color_name         TEXT,
+#        fit                TEXT,
+#        product_price      REAL,
+#        size_number        TEXT,
+#        size_model         TEXT,
+#        cotton             REAL,
+#        polyester          REAL,
+#        spandex            REAL,
+#        elasterell         REAL,
+#        scrapy_datetime    TEXT
+#       )
+#    '''
+
+#    conn = sqlite3.connect('database_hm.sqlite')
+#    cur = conn.cursor()
+#    cur.execute(query_showroom_schema)
+#    conn.commit()
+
     conn = create_engine('sqlite:///database_hm.sqlite')
     data_insert.to_sql('vitrine', con = conn, if_exists = 'append', index = False)
 
