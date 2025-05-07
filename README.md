@@ -3,18 +3,18 @@
 </h1>
 
 <h4 align="center"> 
-	🚧 Star Jeans Proj 1.0 🚀 still building... 🚧
+	 Star Jeans Proj 1.0 🚀 
 </h4>
 
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rmendes1/star-jeans?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rmendes1/da_star-jeans?color=%2304D361">
 
- <img alt="Repository size" src="https://img.shields.io/github/repo-size/rmendes1/star-jeans">
+ <img alt="Repository size" src="https://img.shields.io/github/repo-size/rmendes1/da_star-jeans">
 	
   
   <a href="https://github.com/rmendes1/house-rocket/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rmendes1/star-jeans">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rmendes1/da_star-jeans">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
